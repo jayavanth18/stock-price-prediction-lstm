@@ -1,26 +1,32 @@
 # 📈 Stock Price Prediction using LSTM & Keras Tuner
 
-A machine learning project to predict stock prices using **Long Short-Term Memory (LSTM)** networks with **Keras Tuner** for hyperparameter optimization.  
-The project has:
-- A **training script** to build and tune the model.
-- A **Streamlit web app** to visualize predictions.
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io/)
+[![Keras](https://img.shields.io/badge/Keras-TensorFlow-orange?logo=keras)](https://keras.io/)
+[![License](https://img.shields.io/badge/License-MIT-green)](#)
+
+A machine learning project that predicts stock prices using **Long Short-Term Memory (LSTM)** networks with **Keras Tuner** for hyperparameter optimization.
+
+🎥 **Demo Video:** [Watch on YouTube](https://youtu.be/e8-Fdg2Jn_o)
 
 ---
 
 ## 🚀 Features
-- Uses historical stock data from Yahoo Finance.
-- Automatic hyperparameter tuning with Keras Tuner.
-- Predicts next-day stock prices using the past 120 days.
-- Interactive web interface with accuracy metrics.
+- 📊 Fetches **historical stock data** from Yahoo Finance.
+- 🔧 **Automatic hyperparameter tuning** with Keras Tuner.
+- ⏳ Predicts **next-day stock prices** using the past **120 days** of data.
+- 🖥 **Streamlit web interface** for interactive predictions & performance metrics.
 
 ---
 
-## 📂 Project Structure
-├── train_model.py # Train and save the model
-├── app.py # Streamlit UI for predictions
-├── requirements.txt # Required Python packages
-├── README.md # Documentation
-└── .gitignore # Ignore cache & unwanted files
+## 📂 Project Structure & Setup
+```plaintext
+├── train_model.py        # Train and save the LSTM model
+├── app.py                # Streamlit UI for predictions
+├── requirements.txt      # Required Python packages
+├── README.md             # Documentation
+└── .gitignore            # Ignore cache & unwanted files
+```
 
 ---
 
@@ -58,8 +64,8 @@ Prediction Graph's :
 
 ---
 
-##✨ Author
-A. Jayavanth — 
+##✨ Author: [Profile Link](https://github.com/jayavanth18)
+A. Jayavanth — https://github.com/jayavanth18
 
 ---
 
