@@ -33,7 +33,7 @@ A machine learning project that predicts stock prices using **Long Short-Term Me
 ## 🛠 Installation
 
 ### 1️⃣ Clone the Repository
-git clone 
+git clone https://github.com/jayavanth18/stock-price-prediction-lstm.git
 
 ###2️⃣ Install Dependencies
 pip install -r requirements.txt
@@ -42,18 +42,18 @@ pip install -r requirements.txt
 
 ###📊 Usage
 python train_model.py
-
+```plaintext
 -> Downloads historical data.
 -> Tunes the LSTM hyperparameters.
 -> Saves the best model to best_stock_model.keras.
-
+```
 Run the Streamlit App
 streamlit run app.py
-
+```plaintext
 -> Enter a stock ticker (e.g., WMT, AAPL).
 -> View predicted vs actual prices.
 -> Check model accuracy & performance metrics.
-
+```
 ---
 
 ## 📸 Example Output
@@ -64,9 +64,6 @@ Prediction Graph's :
 
 ---
 
-##✨ Author: [Profile Link](https://github.com/jayavanth18)
-A. Jayavanth — https://github.com/jayavanth18
+##✨ Author: [A. Jayavanth](https://github.com/jayavanth18)
 
 ---
-
-cd stock-price-prediction
