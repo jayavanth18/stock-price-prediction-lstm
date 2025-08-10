@@ -208,9 +208,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **[A. Jayavanth](https://github.com/jayavanth18)**
 
 [![GitHub](https://img.shields.io/badge/GitHub-jayavanth18-black?logo=github&logoColor=white)](https://github.com/jayavanth18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](#)
-
-*"Building intelligent solutions with machine learning and deep learning"*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayavanth18/)
 
 </div>
 
